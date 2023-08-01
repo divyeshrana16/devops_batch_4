@@ -4,4 +4,4 @@ git clone url
 git remote -v
 git pull
 git fatch
-
+git push
